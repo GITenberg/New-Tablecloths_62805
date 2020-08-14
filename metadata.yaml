@@ -1,0 +1,28 @@
+_repo: New-Tablecloths_62805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Thread Company
+    aliases:
+    - Company, American Thread
+    - American Thread Co.
+    gutenberg_agent_id: '50912'
+    url: http://www.gutenberg.org/2009/agents/50912
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Star Book No. 57
+subjects:
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+- !lcsh 'Tablecloths'
+- !lcsh 'Table setting and decoration'
+- GITenberg
+title: New Tablecloths
+url: http://www.gutenberg.org/ebooks/62805
